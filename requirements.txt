@@ -1,0 +1,6 @@
+python-escpos
+Pillow
+qrcode
+requests
+flask
+flask-restx
